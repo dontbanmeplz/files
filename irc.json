@@ -1,0 +1,17 @@
+{
+  "id": "irchighway-ebooks",
+  "name": "IRCHighway eBooks",
+  "icon": "network",
+  "protocolType": "ircDCC",
+  "config": {
+    "type": "ircDCC",
+    "data": {
+      "server": "irc.irchighway.net",
+      "port": 6667,
+      "channel": "#ebooks",
+      "searchBot": "search",
+      "searchPrefix": "@search",
+      "useTLS": false
+    }
+  }
+}
